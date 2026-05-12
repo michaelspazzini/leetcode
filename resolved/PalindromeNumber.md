@@ -1,0 +1,26 @@
+# Topic
+- Math
+
+## Link
+https://leetcode.com/problems/palindrome-number/solutions/8114879/palindrome-number-by-spamic-vxfw
+
+# Code
+```python3 []
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        if x < 0:
+            return False
+
+        nums = [digit for digit in str(x)]
+        
+        i = 0
+        j = len(nums)-1
+
+        while i < j:
+            if nums[i] != nums[j]:
+                return False
+            i = i+1
+            j = j-1
+        return True
+
+```
