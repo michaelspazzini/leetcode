@@ -5,5 +5,5 @@ This repository contains my LeetCode solutions, including both individual and co
 ## Author
 - Michael Spazzini — [GitHub](https://github.com/michaelspazzini)
 
-## Collaborator
+## Collaborators
 - Francesco Zonaro — [GitHub](https://github.com/francescozonaro)
