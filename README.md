@@ -4,6 +4,8 @@ This repository contains my LeetCode solutions, including both individual and co
 
 Collaborations: michael.spazzini@gmail.com
 
-## Author
+## Authors
+
 - Michael Spazzini — [GitHub](https://github.com/michaelspazzini)
 - Francesco Zonaro — [GitHub](https://github.com/francescozonaro)
+- Andrea Fiori — [GitHub](https://github.com/fioriandrea)
